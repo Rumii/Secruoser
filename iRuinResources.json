@@ -1,8 +1,6 @@
 {
-	"version": "20160601",
+    "version": "20160603",
     "uri": "https://raw.githubusercontent.com/Rumii/Secruoser/master/iRuinResources.zip",
-    
-	"isProduction": 1,
 	"isImmediately": 1,
-	"inSandboxPath": "~/tmp/",
+	"inSandboxPath": "~/tmp/"
 }
