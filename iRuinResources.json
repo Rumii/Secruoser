@@ -1,13 +1,8 @@
 {
-
-	"version": "2015092401",
-
+	"version": "20160601",
+    "url": "https://raw.githubusercontent.com/Rumii/Secruoser/master/iRuinResources.zip",
+    
 	"isProduction": 1,
-
-	"isSetupImmediately": 1,
-
-	"inSandboxPath": "tmp/",
-
-	"resourcesURL": "https://raw.githubusercontent.com/suchavision/Resources/master/iRuinResources.zip",
-
+	"isImmediately": 1,
+	"inSandboxPath": "~/tmp/",
 }
