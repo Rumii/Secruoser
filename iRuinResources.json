@@ -1,0 +1,13 @@
+{
+
+	"version": "2015092401",
+
+	"isProduction": 1,
+
+	"isSetupImmediately": 1,
+
+	"inSandboxPath": "tmp/",
+
+	"resourcesURL": "https://raw.githubusercontent.com/suchavision/Resources/master/iRuinResources.zip",
+
+}
